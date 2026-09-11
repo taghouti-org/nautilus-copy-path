@@ -31,7 +31,7 @@ sudo pacman -S python-nautilus
 
 ```bash
 mkdir -p ~/.local/share/nautilus-python/extensions
-curl -fsSL https://gist.githubusercontent.com/taghouttarek/d77a210351ae8b0b67357f7310663a0a/raw/copy-path.py -o ~/.local/share/nautilus-python/extensions/copy-path.py
+curl -fsSL https://gist.githubusercontent.com/taghouttarek/accd92fc3d7ad2fc0bb3031131897ea7/raw/copy-path.py -o ~/.local/share/nautilus-python/extensions/copy-path.py
 nautilus -q   # restart Files (closes open Files windows) so it picks up the extension
 ```
 
