@@ -50,3 +50,7 @@ nautilus -q
   (`pgrep -a nautilus`); run `nautilus -q` and reopen it.
 - **Still missing:** check that the Python loader is installed —
   `ls /usr/lib/*/nautilus/extensions-4/libnautilus-python.so` (path may vary by distro).
+
+---
+
+First published as a [gist](https://gist.github.com/taghouttarek/accd92fc3d7ad2fc0bb3031131897ea7).
